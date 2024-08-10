@@ -1,0 +1,27 @@
+# Archivos de Visual Studio
+.vs/
+*.vcxproj*
+*.user
+*.suo
+*.sln.docstates
+
+# Archivos de build
+bin/
+obj/
+
+# Archivos de configuración local
+*.userosscache
+*.suo
+*.user
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Archivos de caché
+*.ncb
+*.suo
+*.user
+
+# Archivos de datos de paquetes NuGet
+packages/
